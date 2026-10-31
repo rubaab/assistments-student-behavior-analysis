@@ -14,7 +14,7 @@ Do a student's recent behaviors (hint use, number of attempts, response time, ve
 
 ## Data
 
-- **Source:** ASSISTments 2009-2010 skill builder data. *[Add the exact citation and download page from the source you used.]*
+- **Source:** ASSISTments 2009-2010 skill builder data. (https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data/skill-builder-data-2009-2010)
 - **Full file:** 525,534 records, 30 columns.
 - **After keeping original problems only** (`original == 1`, which removes scaffolding sub-questions): 449,220 records.
 - **After cleaning** (removing missing values and non-positive response times): 444,536 records from 4,217 students.
